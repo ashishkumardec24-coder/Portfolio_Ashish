@@ -49,19 +49,8 @@ Parallax mouse movement tracking
 
 Dynamic particles with React state
 
-📁 Project Structure
-/src
- ├── components        # Optional components
- ├── Portfolio.jsx     # Main portfolio component
- ├── App.js
- ├── index.js
- └── styles            # Optional styling folder
+🎯 Core Functionalities
 
-
-
-All core logic including scroll detection, animations, and rendering is handled in Portfolio.jsx.
-
-🎯 Core Functionalities Explained
 🔹 1. Auto-Highlight Active Section
 
 Automatically updates the navbar highlight using scroll position + IntersectionObserver.
@@ -72,7 +61,7 @@ Creates an ambient glow that follows cursor movement for a futuristic effect.
 
 🔹 3. Animated Particle Background
 
-Random particles float smoothly across the background, enhancing visual depth.
+Particles float smoothly across the background, enhancing visual depth.
 
 🔹 4. Responsive Navigation
 
@@ -80,8 +69,8 @@ A clean desktop navigation bar with a fully collapsible mobile menu.
 
 🔹 5. Skills With Animated Progress Bars
 
-Skill bars animate into view with smooth percentage-based progress.
+Skill bars animate into view with smooth transitions.
 
 🔹 6. Research & Projects Section
 
-Displays research work and project cards with hover glow effects and tech badges.
+Displays research work and project cards with clean UI, glowing hover effects, and tech badges.
